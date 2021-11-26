@@ -28,8 +28,7 @@ PROGRAMAÇÂO DE ESTUDO
 
 - [x] #projeto2 Anna Bella - parte 2
 
-- [x] #projeto2 Anna Bella - navegação [Veja o projeto 🚀](https://
-github.com/araujoleonardo310/projeto-anna-bella)
+- [x] #projeto2 Anna Bella - navegação [Veja o projeto 🚀](https://github.com/araujoleonardo310/projeto-anna-bella)
 - [ ] Modelo de caixa
 
 - [ ] Elementos Flutuantes

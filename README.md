@@ -1,62 +1,60 @@
 PROGRAMAÇÂO DE ESTUDO
 
-[ x ] O que irei aprender? css3
+- [x] O que irei aprender? css3
 
-[ ] Introdução CSS
+- [x] Introdução CSS
 
-[ ] Inline CSS
+- [x] Inline CSS
 
-[ ] Seletores CSS
+- [x] Seletores CSS
 
-[ ] Classes e IDs
+- [x] Classes e IDs
 
-[ ] Tags Div & Span
+- [x] Tags Div & Span
 
-[ ] Bordas
+- [x] Bordas
 
-[ ] Fontes & cores
+- [x] Fontes & cores
 
-[ ] Tamanhos de textos
+- [x] Tamanhos de textos
 
-[ ] Estilos de textos
+- [x] Estilos de textos
 
-[ ] Cor e imagem de fundo
+- [x] Cor e imagem de fundo
 
-[ ] CSS Externo
+- [x] CSS Externo
 
-[ ] #projeto2 Anna Bella - página inicial
+- [x] #projeto2 Anna Bella - página inicial
 
-[ ] #projeto2 Anna Bella - parte 2
+- [x] #projeto2 Anna Bella - parte 2
 
-[ ] #projeto2 Anna Bella - navegação
+- [x] #projeto2 Anna Bella - navegação [Veja o projeto 🚀](https://github.com/araujoleonardo310/projeto-anna-bella)
+- [ ] Modelo de caixa
 
-[ ] Modelo de caixa
+- [ ] Elementos Flutuantes
 
-[ ] Elementos Flutuantes
+- [ ] Elementos flutuantes - parte 2
 
-[ ] Elementos flutuantes - parte 2
+- [ ] Elementos flutuantes na prática
 
-[ ] Elementos flutuantes na prática
+- [ ] Elementos inline, block e inline-block
 
-[ ] Elementos inline, block e inline-block
+- [ ] Posicionamento estático e relativo
 
-[ ] Posicionamento estático e relativo
+- [ ] Posicionamento - absoluto e fixo
 
-[ ] Posicionamento - absoluto e fixo
+- [ ] Sobrepondo elementos
 
-[ ] Sobrepondo elementos
+- [ ] Formatando links
 
-[ ] Formatando links
+- [ ] #projeto3 TecBlog - parte 1
 
-[ ] #projeto3 TecBlog - parte 1
+- [ ] #projeto3 TecBlog - parte 2
 
-[ ] #projeto3 TecBlog - parte 2
-
-[ ] #projeto3 TecBlog - parte 3
-
+- [ ] #projeto3 TecBlog - parte 3
 
 
-<br>
+ <br>
 
 <h3>Descrição e detalhes do curso</h3>
 
